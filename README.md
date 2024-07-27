@@ -2,6 +2,11 @@
 
 Welcome to my GitHub profile! I'm a Front-End Developer with a passion for creating awesome web experiences. 🎨💻
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{vinayak-urs}/count.svg" alt="vinayak-urs :: Visitor's Count" /></p>
+
+
 ## 🛠️ Technologies & Tools
 
 - **React** - My go-to for building dynamic UIs. ⚛️
